@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mayank Poojary 👋<br><br>- 📚 Pursuing a diploma in Artificial Intelligence and Machine Learning<br>- 💻 Full stack developer <br>- 🌟 Passionate about leveraging AI to solve real-world problems<br>- 🚀 Always eager to learn and grow in the tech space<br>- 🔗 Follow my journey as I explore the fascinating world of AI and contribute to exciting projects<br><br>Let's connect and collaborate!
+Hi, I'm Mayank Poojary 👋<br><br>- 📚 Pursuing a B.Tech in Artificial Intelligence and Data Science<br>- 💻 Full stack developer <br>- 🌟 Passionate about leveraging AI to solve real-world problems<br>- 🚀 Always eager to learn and grow in the tech space<br>- 🔗 Follow my journey as I explore the fascinating world of AI and contribute to exciting projects<br><br>Let's connect and collaborate!
 
 
 # 💻 Tech Stack:
